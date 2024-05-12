@@ -1,1 +1,1 @@
-Bu github repomda öğrenmeye çalıştığım windows form kodlarım gelecek ve seri halinde devam edicek icinde kullandığım projeleride eklicem
+My windows form codes that I am trying to learn in this github repo will come and continue in series, I will also add the projects I use in it
